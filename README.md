@@ -1,6 +1,4 @@
-# project_Morten_Ågotnes
-
-* Haskell Fight Tactics
+# Haskell Fight Tactics
 HTF er en autobattler hvor du kjøper og oppgraderer brikker, som kjemper motstandere for deg. 
 
 # Game loop
